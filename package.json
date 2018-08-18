@@ -9,13 +9,20 @@
   },
   "dependencies": {
     "antd-mobile-rn": "^2.2.1",
+    "autobind-decorator": "^2.1.0",
+    "color": "^3.0.0",
+    "lodash": "^4.17.10",
     "lottie-react-native": "^2.5.6",
+    "moment": "^2.22.2",
     "nachos-ui": "^0.2.0-beta.1",
     "native-base": "^2.7.2",
     "react": "16.4.1",
     "react-native": "0.56.0",
     "react-native-calendars": "^1.20.0",
+    "react-native-datepicker": "^1.7.2",
     "react-native-elements": "^0.19.1",
+    "react-native-keyboard-spacer": "^0.4.1",
+    "react-native-maps-super-cluster": "^1.4.1",
     "react-native-material-kit": "^0.5.1",
     "react-native-material-ui": "^1.30.1",
     "react-native-paper": "^1.11.1",
@@ -23,9 +30,11 @@
     "react-native-spinkit": "^1.1.1",
     "react-native-ui-kitten": "^3.0.1",
     "react-native-ui-lib": "^3.3.208",
-    "react-native-vector-icons": "^5.0.0"
+    "react-native-vector-icons": "^5.0.0",
+    "react-navigation": "^2.11.2"
   },
   "devDependencies": {
+    "@types/color": "^3.0.0",
     "@types/jest": "^23.3.1",
     "@types/react": "^16.4.11",
     "@types/react-native": "^0.56.9",
